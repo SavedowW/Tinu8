@@ -6,7 +6,6 @@ project(${PROJECT_NAME})
 
 set(SRC_FILES 
 main.cpp
-utils.cpp
 utf8.cpp
 )
 
